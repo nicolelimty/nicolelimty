@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**nicolelimty/nicolelimty** is a ✨ _special_ ✨ repository because its 👀
+**nicolelimty/nicolelimty** is a ✨ _special_ ✨ repository
 
 - 🔭 I’m currently studying Bachelor of Computing Science (Data Engineering) in University of Technology Malaysia
 - 🌱 I’m currently learning more languages such as C++, HTML...
