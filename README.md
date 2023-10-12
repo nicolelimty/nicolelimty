@@ -6,4 +6,5 @@
 - 🌱 I’m currently learning more languages such as C++, HTML...
 - 📫 How to reach me: limnicole167@gmail.com 
 - 😄 Pronouns: she/her
+- https://nicolelimty.github.io/project2/index.html
 
