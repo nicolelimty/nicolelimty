@@ -8,7 +8,7 @@
 
 #### Past Projects
 <b> YV Track – Youth Ventures Student Development Tracking System </b>
-<be> Group: 3+1 | Developed using PHP | Video Presentation: https://drive.google.com/file/d/1durK5lCXBPEy7-4ZBC2J_Ec6r5-os-Bo/view?usp=drive_link
+<br> Group: 3+1 | Developed using PHP | Video Presentation: https://drive.google.com/file/d/1durK5lCXBPEy7-4ZBC2J_Ec6r5-os-Bo/view?usp=drive_link
 
 - Designed and developed a student tracking system that manages registration, activity tracking, and resume generation for students.
 - Implemented automated resume generation based on student activities, improving documentation efficiency.
