@@ -1,10 +1,8 @@
-### Hi there👋, I'm Nicole Lim Tze Yee
+### Nicole here 😁
 
-**nicolelimty/nicolelimty** is a ✨ _special_ ✨ repository
-
-- 🔭 I’m currently studying Bachelor of Computing Science (Data Engineering) in University of Technology Malaysia
-- 🌱 I’m currently learning more languages such as C++, HTML...
-- 📫 How to reach me: limnicole167@gmail.com 
+- 🔭 I’m a Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM), expected to graduate in October 2026. 
+- 🌱 Languages: Python, C++, Java, SQL, HTML, PHP
+- 📫 Contact: limnicole167@gmail.com | https://www.linkedin.com/in/nicole-lim-2a183620a/
 - 😄 Pronouns: she/her
-- https://nicolelimty.github.io/project2/index.html
+- 🎒 Portfolio: https://nicolelimty.github.io/project2/index.html
 
