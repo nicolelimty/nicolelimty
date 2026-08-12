@@ -14,7 +14,7 @@
 * **Machine Learning & NLP:** Applied Natural Language Processing (NLP) preprocessing techniques and evaluated multiple sentiment classification models, deploying a **Logistic Regression** model that achieved **80.5% accuracy**.
 * **Stream Processing & Visualization:** Utilized **Apache Spark Structured Streaming** to run live model inference on streaming text data, indexing predictions directly into **Elasticsearch** and rendering live sentiment analytics on dynamic **Kibana** dashboards.
 
-🔗 *For a detailed walkthrough, explore the source code in the [GitHub Repository](https://github.com/nicolelimty/your-repo-name) or watch the [Presentation Video](https://drive.google.com/...).*
+🔗 *For a detailed walkthrough, explore the source code in the [GitHub Repository](https://github.com/nicolelimty/your-repo-name).*
 
 ---
 
@@ -25,7 +25,7 @@
 * **Core Functionality:** Engineered dynamic compliance intake forms and a real-time reporting dashboard to streamline audit tracking, issue logging, and corrective action management.
 * **Security & Administration:** Implemented secure **Role-Based Access Control (RBAC)** to manage administrative permissions and separate views across staff and branch administrative roles.
 
-🔗 *You can view the full application codebase in the [GitHub Repository](https://github.com/nicolelimty/your-repo-name) or watch the project walkthrough in the [Presentation Video](https://drive.google.com/...).*
+🔗 *You can view the full application codebase in the [GitHub Repository](https://github.com/nicolelimty/your-repo-name).*
 
 ---
 
@@ -47,4 +47,4 @@
 * **Automated Document Generation:** Engineered an automated resume generation engine that converts tracked student activities into structured resumes, significantly improving documentation efficiency.
 * **Database Design:** Designed structured relational database schemas in MySQL to ensure efficient data storage, fast querying, and reliable data management.
 
-🔗 *Explore the full project codebase in the [GitHub Repository](https://github.com/nicolelimty/your-repo-name) or watch the [Presentation Video](https://drive.google.com/file/d/1durK5lCXBPEy7-4ZBC2J_Ec6r5-os-Bo/view?usp=drive_link).*
+🔗 *Explore the full project codebase in the [Presentation Video](https://drive.google.com/file/d/1durK5lCXBPEy7-4ZBC2J_Ec6r5-os-Bo/view?usp=drive_link).*
