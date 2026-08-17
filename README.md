@@ -1,10 +1,12 @@
 ### Nicole here 😁
 
-- 🎓 Computer Science (Data Engineering) graduate from Universiti Teknologi Malaysia (UTM). 
-- 🌱 Languages: Python, C++, Java, SQL, HTML, PHP
-- ⛏️ Tools & Technologies: Tableau, RapidMiner, Microsoft Office Suite, Canva
-- 📫 Contact: limnicole167@gmail.com | https://www.linkedin.com/in/nicole-lim-2a183620a/
-- 🎒 Portfolio: https://nicolelimty.github.io/project2/index.html
+🎓 **Computer Science (Data Engineering)** graduate from Universiti Teknologi Malaysia (UTM).
+
+* 🌱 **Languages & Web:** SQL, Python, Java, C++, C#, PHP, HTML/CSS
+* ⚡ **Data Engineering & Cloud:** ETL Pipelines, Data Validation, Power BI, Azure, AWS, Alteryx, Tableau
+* 🗄️ **Databases:** MySQL, Relational Database Management (RDBMS)
+* 🛠️ **Developer Tools:** Git, GitHub
+* 📫 **Contact:** limnicole167@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/nicole-lim-2a183620a/)
 
 #### Past Projects
 ### 📌 Real-Time Sentiment Analysis Pipeline
