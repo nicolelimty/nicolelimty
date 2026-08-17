@@ -3,7 +3,7 @@
 🎓 **Computer Science (Data Engineering)** graduate from Universiti Teknologi Malaysia (UTM).
 
 * 🌱 **Languages & Web:** SQL, Python, Java, C++, C#, PHP, HTML/CSS
-* ⚡ **Data Engineering & Cloud:** ETL Pipelines, Data Validation, Power BI, Azure, AWS, Alteryx, Tableau
+* ⚡ **Data Engineering & Cloud:** ETL Pipelines, Data Validation, Power BI, Azure, Alteryx, Tableau
 * 🗄️ **Databases:** MySQL, Relational Database Management (RDBMS)
 * 🛠️ **Developer Tools:** Git, GitHub
 * 📫 **Contact:** limnicole167@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/nicole-lim-2a183620a/)
